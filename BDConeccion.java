@@ -8,7 +8,7 @@ public class BDConeccion {
 
     private final String url = "jdbc:postgresql://localhost/crm";
     private final String user = "postgres";
-    private final String password = "CLANEVIL596";
+    private final String password = "/*INSERTAR AQUI LA CONSTRASEÑA DE POSGRESQL*/";
 
     /**
      * Connect to the PostgreSQL database
